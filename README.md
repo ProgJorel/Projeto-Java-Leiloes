@@ -8,11 +8,11 @@ Este projeto é uma aplicação desktop desenvolvida em Java utilizando Swing pa
 - Registro de Vendas: Permitir a venda de produtos específicos por meio de seu ID.
 - Consulta de Vendas: (Funcionalidade planejada) Consultar o histórico de vendas realizadas.
 
-  ## Tecnologia utilizada
+  ## Tecnologia utilizada 🎧
 - Java
 - Git Bash
 - Github
 
-  ## Capturas de tela
+  ## Capturas de tela 🎞
   <img src="..." />
   
